@@ -1,3 +1,4 @@
+//add both cake and cookie
 // Canvas Asteroids
 //
 // Copyright (c) 2010 Doug McInnes
@@ -16,7 +17,7 @@ KEY_CODES = {
   80: 'p'
 }
 
-KEY_STATUS = { keyDown:false };
+make changes here hah!  ! KEY_STATUS = { keyDown:false };
 for (code in KEY_CODES) {
   KEY_STATUS[KEY_CODES[code]] = false;
 }

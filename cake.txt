@@ -1,6 +1,6 @@
 //add both cake and cookie
 // Canvas Asteroids
-//
+//adgfdgs jhewhjthjewb
 // Copyright (c) 2010 Doug McInnes
 //
 
